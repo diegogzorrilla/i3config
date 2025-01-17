@@ -1,3 +1,5 @@
+NOT MANTAINED ANYMORE. I'M MOVING TO SWAY (WAYLAND). I'LL PUBLISH ABOUT THAT SOME TIME IN THE FUTURE.
+
 # i3config
 
 i3 WM config file with adjustments. All changes to the original code are located at the beginning of the file.
